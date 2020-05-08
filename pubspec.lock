@@ -104,13 +104,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.7"
-  flutter_hooks:
-    dependency: transitive
-    description:
-      name: flutter_hooks
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.9.0"
   flutter_html:
     dependency: "direct main"
     description:
@@ -219,13 +212,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.2"
-  provider:
+  provide:
     dependency: "direct main"
     description:
-      name: provider
+      name: provide
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.6.1"
+    version: "1.0.2"
   quiver:
     dependency: transitive
     description:
